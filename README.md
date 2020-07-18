@@ -2,7 +2,13 @@
 
 ## About BFV_Leader_Board
 Get player information about BFV ([Battle Field V Official Site](https://www.ea.com/ja-jp/games/battlefield/battlefield-5)) from BFV API ([API Officil Site](https://battlefieldtracker.com/)), and 
-organize and show it on web page.
+show the revise information on the web page.
+
+### Data items
+- Kill
+- Death
+- Kill/Death Rate
+- 
 
 ## Preview
 ![PagePreview](./Preview.png)
